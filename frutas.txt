@@ -3,4 +3,7 @@ mamao
 pera 
 banana
 salada mista
+abacate
+maca
+
 
